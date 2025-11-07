@@ -1,0 +1,6 @@
+Faker
+elasticsearch
+numpy
+sentence-transformers
+groq 
+python-dotenv
